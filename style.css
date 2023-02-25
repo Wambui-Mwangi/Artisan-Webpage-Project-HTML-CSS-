@@ -1,0 +1,108 @@
+body{
+    background-color: rgb(215, 182, 215);
+}
+.whole{
+    background-color: white;
+    margin: 3%;
+    border-radius: 5px;
+    
+
+}
+.header{
+    /* display: flex;  */
+    /* justify-content: center; */
+}
+
+.miniheader{
+    display: flex;
+    justify-content:left;
+}
+
+#artisan{
+    display: flex;
+    justify-content: center;
+    margin-top: -3%;
+}
+.miniheader2{
+    display: flex;
+    justify-content: right;
+    margin-top: -5%;
+    /* position: absolute; */
+}
+#boot{
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    height:20px;
+    width: 50px;
+    margin-top: 1.5%;
+    margin-right: 5%;
+}
+#blog{
+    padding-right: 50px;
+
+}
+#contacts{
+    padding-right: 50px;
+}
+
+#about{
+padding-right: 50px;
+padding-left: 30px;
+}
+#howitworks{
+padding-right: 50px;
+}
+#pricing{
+padding-right: 50px;
+}
+.head1{
+    border-bottom: solid black 1px;
+}
+.midsection{
+    display: flex;
+    margin: 5%;
+}
+#profiles{
+    width: 25%;
+
+}
+#catty{
+    width: 50%;
+    border-radius: 20px;
+    height: 100%;
+}
+.sec{
+    /* display: flex; */
+}
+#getstarted{
+    border-radius: 15px;
+    width: 30%;
+    height: 10%;
+}
+#img{
+    width: 10%;
+    border-radius: 15px;
+    height: 20%;
+}
+.sec2{
+    display: flex;
+    gap: 2%;
+    margin-left: 5%;
+}
+#fb{
+    border-radius: 10px;
+}
+#twitter{
+    border-radius: 10px;
+}
+#ig{
+    border-radius: 10px;
+}
+#bottom{
+display: flex;
+}
+.middle{
+    display: flex;
+}
+
